@@ -1,7 +1,5 @@
-"use strict";
-let counter = 0;
 const array = [];
-setInterval(function() {
-    
+let counter = 0;
+setInterval(() => {
     
 }, 1000);
